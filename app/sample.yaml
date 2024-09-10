@@ -14,6 +14,7 @@ tests:
       - intel_adsp/cavs25
       - intel_adsp/ace15_mtpm
       - intel_adsp/ace20_lnl
+      - intel_adsp/ace30
       - intel_adsp/ace30_ptl
       - intel_adsp/ace30_ptl_sim
       - imx8qm_mek/mimx8qm6/adsp
@@ -25,6 +26,7 @@ tests:
       - intel_adsp/cavs25  # TGL
       - intel_adsp/ace15_mtpm  # MTL
       - intel_adsp/ace20_lnl
+      - intel_adsp/ace30
       - intel_adsp/ace30_ptl
       - intel_adsp/ace30_ptl_sim
       - imx8qm_mek/mimx8qm6/adsp

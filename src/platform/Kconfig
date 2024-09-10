@@ -259,7 +259,7 @@ config MAX_CORE_COUNT
 	default 5 if PANTHERLAKE
 	default 4 if TIGERLAKE
 	default 3 if METEORLAKE
-	default 1
+	default 5
 	help
 	  Maximum number of cores per configuration
 
